@@ -7,7 +7,7 @@
  */?>
 <html>
 <head>
-    <title>jQuery post form data using .post() method by codeofaninja.com</title>
+    <title>jQuery post form data using .post()</title>
 
 </head>
 <body>
