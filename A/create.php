@@ -8,7 +8,7 @@
 ?>
 <html>
 <head>
-    <title>jQuery post JSON data using .post() method by codeofaninja.com</title>
+    <title>jQuery post JSON data using .post() </title>
 
 </head>
 <body>
