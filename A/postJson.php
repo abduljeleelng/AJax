@@ -8,7 +8,7 @@
 ?>
 <html>
 <head>
-    <title>jQuery post JSON data using .post() method by codeofaninja.com</title>
+    <title>jQuery post JSON data using .post()</title>
 
 </head>
 <body>
@@ -36,7 +36,7 @@
              * $(this).serialize() - to easily read form data
              * function(data){... - data contains the response from post_receiver.php
              */
-            $.post('post_receiver.php', { user_id: "143", username: "ninjazhai", website: "https://codeofaninja.com/" }, function(data){
+            $.post('post_receiver.php', { user_id: "143", username: "ninjazhai", website: "https://nsst.com.ng/" }, function(data){
 
                 // show the response
                 $('#response').html(data);
