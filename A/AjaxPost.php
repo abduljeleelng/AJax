@@ -9,7 +9,7 @@
 
 <html>
 <head>
-    <title>jQuery post form data using .ajax() method by codeofaninja.com</title>
+    <title>jQuery post form data using .ajax() </title>
 
 </head>
 <body>
